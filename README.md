@@ -1,2 +1,4 @@
 # Internet-worm
-使用Python编写的一些网络爬虫程序
+Python is very good!
+I am looking hello-world's guide,hhh
+first time to use github
